@@ -1,0 +1,1 @@
+#uv run python plot_sim.py
